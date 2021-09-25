@@ -8,6 +8,8 @@ I'm Jeffrey Hanif Watson.
 - [LinkedIn](https://www.linkedin.com/in/jeffrey-h-watson/)
 
 - [twitter](https://twitter.com/JeffHWatson)
+
+![aug_pos](https://user-images.githubusercontent.com/69439101/134785416-5e6cf942-4292-46d0-a23e-3d88f2918df9.png)
 <!--
 **jeffreyhwatson/jeffreyhwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![aug_pos](https://user-images.githubusercontent.com/69439101/134785416-5e6cf942-4292-46d0-a23e-3d88f2918df9.png)
+-->
 
