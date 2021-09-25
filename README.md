@@ -11,6 +11,8 @@ I'm Jeffrey Hanif Watson.
 
 🌱 I’m currently learning a lot.
 
+👯 I’m looking to collaborate on whatever.
+
 ⚡ Fun fact: I'm a DJ.
 
 📫 How to reach me:
