@@ -1,5 +1,17 @@
-### Hi there 😄
+
+![aug_pos](https://user-images.githubusercontent.com/69439101/134785416-5e6cf942-4292-46d0-a23e-3d88f2918df9.png)
+
+### What's up 👋
+
 I'm Jeffrey Hanif Watson.
+
+😄 Pronouns: He/Him
+
+🔭 I’m currently working on Data Science.
+
+🌱 I’m currently learning a lot.
+
+⚡ Fun fact: I'm a DJ.
 
 📫 How to reach me:
 
@@ -9,12 +21,11 @@ I'm Jeffrey Hanif Watson.
 
 - [twitter](https://twitter.com/JeffHWatson)
 
-![aug_pos](https://user-images.githubusercontent.com/69439101/134785416-5e6cf942-4292-46d0-a23e-3d88f2918df9.png)
 <!--
 **jeffreyhwatson/jeffreyhwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
