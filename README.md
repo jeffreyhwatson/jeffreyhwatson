@@ -3,7 +3,7 @@ I'm Jeffrey Hanif Watson.
 
 📫 How to reach me:
 
-- **email jeffrey.h.watson@protonmail.com**
+- **jeffrey.h.watson@protonmail.com**
 
 - [LinkedIn](https://www.linkedin.com/in/jeffrey-h-watson/)
 
