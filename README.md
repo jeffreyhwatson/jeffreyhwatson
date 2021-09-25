@@ -1,7 +1,7 @@
 
 ![aug_pos](https://user-images.githubusercontent.com/69439101/134785416-5e6cf942-4292-46d0-a23e-3d88f2918df9.png)
 
-### What's up 👋
+### What's up? 👋
 
 I'm Jeffrey Hanif Watson.
 
