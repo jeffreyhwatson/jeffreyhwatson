@@ -1,21 +1,21 @@
 
 ![aug_pos](https://user-images.githubusercontent.com/69439101/134785416-5e6cf942-4292-46d0-a23e-3d88f2918df9.png)
 
-### What's up? 👋
+### What's up? ✊
 
 I'm Jeffrey Hanif Watson.
 
-😄 Pronouns: He/Him
+♂️ Pronouns: He/Him
 
-🔭 I’m currently working on Data Science Projects.
+⚗️ I’m currently working on Data Science Projects.
 
-🌱 I’m currently learning a lot.
+👨‍🎓 I’m currently learning a lot.
 
 👯 I’m looking to collaborate on whatever.
 
 📝 Sometimes I write for [Toward Data Science](https://hanif-watson.medium.com/).
 
-⚡ Fun fact: I'm a DJ. 🎧 🎛️
+🎶 Fun fact: I'm a DJ. 🎧 🎛️
 
 📫 How to reach me:
 
