@@ -11,7 +11,7 @@ I'm Jeffrey Hanif Watson.
 
 👨‍🎓 I’m currently learning a lot.
 
-👯 I’m looking to collaborate on whatever.
+👥 I’m looking to collaborate on whatever.
 
 📝 Sometimes I write for [Toward Data Science](https://hanif-watson.medium.com/).
 
