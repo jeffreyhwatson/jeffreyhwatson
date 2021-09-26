@@ -7,7 +7,7 @@ I'm Jeffrey Hanif Watson.
 
 ♂️ Pronouns: He/Him
 
-⚗️ I’m currently working on Data Science Projects.
+🔬 I’m currently working on Data Science Projects.
 
 👨‍🎓 I’m currently learning a lot.
 
