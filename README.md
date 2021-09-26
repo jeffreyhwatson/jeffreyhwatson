@@ -13,7 +13,9 @@ I'm Jeffrey Hanif Watson.
 
 👯 I’m looking to collaborate on whatever.
 
-⚡ Fun fact: I'm a DJ.
+📝 Sometimes I write for [Toward Data Science](https://hanif-watson.medium.com/).
+
+⚡ Fun fact: I'm a DJ. 🎧 🎛️
 
 📫 How to reach me:
 
